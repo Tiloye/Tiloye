@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tiloye
 - 👀 I’m interested in Data Science, Machine learning and AI.
 - 🌱 I’m currently learning python for Data Science and Machine learning.
-- 💞️ I’m looking to collaborate on data science and machine learning projects in finance.
+- 💞️ I’m looking to collaborate on data science and machine learning projects.
 - 📫 How to reach me: Kindly reach me on my email address, olalusikehinde@yahoo.com.
 
 <!---
