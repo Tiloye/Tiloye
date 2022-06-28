@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tiloye
+- 👋 Hi, I’m Kehinde
 - 👀 I’m interested in Data Science, Machine learning and AI.
 - 🌱 I’m currently learning python for Data Science and Machine learning.
 - 💞️ I’m looking to collaborate on data science and machine learning projects.
